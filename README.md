@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+**I'm Spear a young developer.**
+
+- I'm currently working on the <a href="https://github.com/callmehSpear/Moonlight-Framework"Moonlight Framework</a>
+- I'm currently learning **Swift** & **more JS**.
+- I'm expericned in Lua, C#, Swift snd JS.
+
+he/hin
+Spear#0001 on <a href="https://discord.com">Discord</a>
 <!--
 **callmehSpear/callmehspear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
