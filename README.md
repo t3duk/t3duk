@@ -2,23 +2,21 @@
 
 **I'm Spear a young developer.**
 
-- I'm currently working on the <a href="https://github.com/callmehSpear/Moonlight-Framework">Moonlight Framework</a>
-- I'm currently learning **Swift** & **more JS**.
-- I'm expericned in Lua, C#, Swift snd JS.
+**🔭 I’m currently working on**
+- <a href="https://melodyradio.net">Melody</a>
+- <a href="https://moonlighthq.net">Moonlight</a>
+- <a href="https://github.com/callmehSpear/Moonlight-Framework">Moonlight Framework</a>
 
-he/hin
-Spear#0001 on <a href="https://discord.com">Discord</a>
-<!--
-**callmehSpear/callmehspear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🌱 I’m currently learning**
+- Swift
+- JS
+- C#
 
-Here are some ideas to get you started:
+*🛠️ I’m currently developing**
+- Lua
+- HTML
+- Tailwind CSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+- Spear#2022 on <a href="https://discord.com">Discord</a>
+- @callmehspear on most platforms
