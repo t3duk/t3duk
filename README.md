@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**I'm Spear a young developer.**
+I am Spear, a young upcoming developer. I am a front-end web developer, but I also focus on development in the lanuage Lua, which is used in the ROBLOX platform.
 
 **🔭 I’m currently working on**
 - <a href="https://itseternal.net">Eternal</a>
@@ -18,7 +18,5 @@
 - Tailwind CSS
 
 📫 How to reach me:
-- Spear#2022 on <a href="https://discord.com">Discord</a>
-- @callmehspear on most platforms
-
-# https://moonlighthq.net/spear
+- See my portfolio website below:
+https://moonlighthq.net/spear
