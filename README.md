@@ -24,6 +24,6 @@ I am Spear, a young upcoming developer. I am a front-end web developer, but I al
 
 **📫 How to reach me:**
 - <a target="_blank" href="https://discord.com/users/378251417267339264">Discord</a>
-- <a href="https://solo.to/spear">Solo.to</a>
-- <a href="https://twitter.com/callmehspear">Twitter</a>
-- <a href="mailto:callmehspear@gmail.com">Email</a>
+- <a target="_blank" href="https://solo.to/spear">Solo.to</a>
+- <a target="_blank" href="https://twitter.com/callmehspear">Twitter</a>
+- <a target="_blank" href="mailto:callmehspear@gmail.com">Email</a>
