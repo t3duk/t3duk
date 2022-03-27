@@ -8,7 +8,7 @@ I am Spear, a young upcoming developer. I am a front-end web developer, but I al
 - Marketing
 
 **🔭 I’m currently working on**
-- <a href="https://itseternal.net">Eternal</a>
+- <a href="https://cloaksminus.com">Cloaks+</a>
 - <a href="https://moonlighthq.net">Moonlight</a>
 - <a href="https://github.com/callmehSpear/Moonlight-Framework">Moonlight Framework</a>
 
