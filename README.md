@@ -28,5 +28,3 @@ I am Spear, a young upcoming developer. I am a front-end web developer, but I al
 - <a target="_blank" href="https://twitter.com/callmehspear">Twitter</a>
 - <a target="_blank" href="mailto:callmehspear@gmail.com">Email</a>
 - <a target="_blank" href="https://callmehspear.com">Website</a>
-
-<a href="https://callmehspear.com" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/378251417267339264.png"/></a>
