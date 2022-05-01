@@ -30,3 +30,4 @@ I am Spear, a young upcoming developer. I am a front-end web developer, but I al
 - <a target="_blank" href="https://callmehspear.com">Website</a>
 
 <a href="https://callmehspear.com" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/378251417267339264.png"/></a>
+<a href="https://callmehspear.com" target="_blank"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=callmehspear&count_private=true&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&langs_count=10&custom_title=Most%20Used%20Coding%20Languages"/></a>
