@@ -6,11 +6,12 @@ I am Spear, a young upcoming developer. I am a front-end web developer, but I al
 - Leadership
 - Programming
 - Marketing
+- Designing
 
 **🔭 I’m currently working on**
-- <a href="https://cloaksminus.com">Cloaks+</a>
 - <a href="https://moonlighthq.net">Moonlight</a>
 - <a href="https://github.com/callmehSpear/Moonlight-Framework">Moonlight Framework</a>
+- - <a href="https://phtyro.com">Phtyro</a>
 
 **🌱 I’m currently learning**
 - Swift
@@ -20,7 +21,8 @@ I am Spear, a young upcoming developer. I am a front-end web developer, but I al
 **🛠️ I’m currently developing**
 - Lua
 - HTML
-- Tailwind CSS
+- Tailwind
+- CSS
 
 **📫 How to reach me:**
 - <a target="_blank" href="https://discord.com/users/378251417267339264">Discord</a>
