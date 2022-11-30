@@ -6,4 +6,4 @@ Javascript, Node JS, Lua, HTML, Tailwind CSS, PHP, Python
 
 <a target="_blank" href="https://solo.to/spear">Solo.to</a>
 
-[![Spear’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=callmehspear)](https://github.com/anuraghazra/github-readme-stats)
+[![Spear’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=callmehspear&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
