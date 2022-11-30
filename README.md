@@ -8,4 +8,4 @@ Javascript, Node JS, Lua, HTML, Tailwind CSS, PHP, Python
 
 ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=callmehspear&hide=css,html&langs_count=80&count_private=true)
 
-![Stats](https://github-readme-stats.vercel.app/api?username= callmehspear&count_private=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=callmehspear&count_private=true)
