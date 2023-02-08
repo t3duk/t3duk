@@ -1,12 +1,11 @@
-### Howdy ✌
+### Howdy :v:
 
- I'm Ted
-❤ 14 years old
- A Blazingly Fast Full Stack Developer
- From the UK
+:wave: I'm Ted
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,js,tailwind,html,figma,firebase,mysql,linux,lua,vscode,express,pug,github,cloudflare,docker,discord,pr,au&perline=6&theme=dark" />
-  </a>
-</p>
+:heart: 14 years old
+
+:fire: A Blazingly Fast Full Stack Developer
+
+:coffee: From the UK
+
+<img src="https://skillicons.dev/icons?i=nodejs,js,tailwind,html,figma,firebase,mysql,linux,lua,vscode,express,pug,github,cloudflare,docker,discord,pr,au&perline=9&theme=dark" />
