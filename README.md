@@ -1,11 +1,12 @@
-### Hi there 👋
+### Howdy ✌
 
-I am Ted, a young upcoming developer. I am a full stack web developer.
+ I'm Ted
+❤ 14 years old
+ A Blazingly Fast Full Stack Developer
+ From the UK
 
-Javascript, Node JS, Lua, HTML, Tailwind CSS, Python
-
-<a target="_blank" href="https://solo.to/spear">Solo.to</a>
-
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=callmehspear&hide=css,html&langs_count=80&count_private=true)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=callmehspear&count_private=true)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,js,tailwind,html,figma,firebase,mysql,linux,lua,vscode,express,pug,github,cloudflare,docker,discord,pr,au&perline=6&theme=dark" />
+  </a>
+</p>
