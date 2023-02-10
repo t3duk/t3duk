@@ -8,4 +8,4 @@
 
 :coffee: From the UK
 
-<img src="https://skillicons.dev/icons?i=nodejs,js,tailwind,html,figma,firebase,mysql,linux,lua,vscode,express,pug,github,cloudflare,docker,discord,pr,au&perline=9&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,tailwind,pug,figma,firebase,mysql,linux,lua,vscode,express,cloudflare,js,html,docker,discord,pr,au&perline=9&theme=dark" />
