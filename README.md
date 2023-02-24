@@ -8,6 +8,6 @@
 
 :coffee: From the UK
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,tailwind,pug,figma,firebase,mysql,linux,lua,vscode,github,cloudflare,js,html,docker,discord,pr,au&perline=9&theme=dark" />
-
 :email: ted@daad.wtf
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,tailwind,pug,figma,firebase,mysql,linux,lua,vscode,github,cloudflare,js,html,docker,discord,pr,au&perline=9&theme=dark" />
