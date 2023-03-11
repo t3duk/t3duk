@@ -10,4 +10,4 @@
 
 :email: ted@daad.wtf
 
-<img src="https://skillicons.dev/icons?i=ae,electron,au,bash,blender,bootstrap,css,cloudflare,deno,discord,bots,docker,express,figma,firebase,gcp,git,github,js,ai,html,linux,lua,markdown,nodejs,mysql,pr,ps,php,pug,python,raspberrypi,stackoverflow,tailwind,twitter,sentry,vscode&perline=12&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ae,electron,au,bash,blender,ts,css,cloudflare,deno,discord,bots,docker,express,figma,firebase,gcp,git,github,js,ai,html,linux,lua,markdown,nodejs,mysql,pr,ps,php,pug,python,raspberrypi,stackoverflow,tailwind,twitter,sentry,vscode&perline=12&theme=dark" />
