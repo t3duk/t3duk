@@ -3,7 +3,7 @@
 welcome to my page! i'm a **full stack developer** from the <img height="13" alt="uk flag" src="https://cdn-icons-png.flaticon.com/512/197/197374.png"> **United Kingdom**
 
 <div>
-  <a href="https://x.com/@t3duk"><img alt="X" src="https://img.shields.io/badge/@t3duk-1D9BF0?style=flat-square&logo=x&logoColor=ffffff"></a> <img alt="Discord" src="https://img.shields.io/badge/@t3d.uk-5865F2?style=flat-square&logo=discord&logoColor=ffffff"> <a href="https://tiktok.com/@t3d.uk"><img alt="TikTok" src="https://img.shields.io/badge/@t3d.uk-000000?style=flat-square&logo=tiktok&logoColor=ffffff"></a>
+  <a href="https://x.com/@t3duk"><img alt="X" src="https://img.shields.io/badge/@t3duk-1D9BF0?style=flat-square&logo=x&logoColor=ffffff"></a> <img alt="Discord" src="https://img.shields.io/badge/@t3d.uk-5865F2?style=flat-square&logo=discord&logoColor=ffffff"> <a href="https://tiktok.com/@t3d.uk"><img alt="TikTok" src="https://img.shields.io/badge/@t3d.uk-000000?style=flat-square&logo=tiktok&logoColor=ffffff"></a> <a href="mailto:hi@t3d.uk"><img alt="Email" src="https://img.shields.io/badge/hi@t3d.uk-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"></a>
 </div>
 
 ## <img height="24" alt="cat nerd" src="https://emojis.slackmojis.com/emojis/images/1643516247/22769/meow_nerd2.png?1643516247"> my skills
@@ -30,6 +30,14 @@ welcome to my page! i'm a **full stack developer** from the <img height="13" alt
   <img alt="Static Badge" src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff">
   <img alt="Static Badge" src="https://img.shields.io/badge/macos-000000?style=flat-square&logo=apple&logoColor=ffffff">
 </p>
+
+## <img height="24" alt="cat nerd" src="https://emojis.slackmojis.com/emojis/images/1643515023/10521/meow_code.gif?1643515023"> my projects
+
+| 🔥 project | ✨ description | 🚦 status | 🌍 open source | 🌿 version |
+| - | - | - | - | - |
+| [page.rip](https://page.rip) | page is a link in bio service | <img alt="Static Badge" src="https://img.shields.io/badge/in%20development-orange?style=flat-square"> | <img alt="Static Badge" src="https://img.shields.io/badge/closed%20source-red?style=flat-square"> | v0.0.0 |
+| [portfolio](https://t3d.uk) | personal portfolio website | <img alt="Static Badge" src="https://img.shields.io/badge/operational-green?style=flat-square"> | <img alt="Static Badge" src="https://img.shields.io/badge/closed%20source-red?style=flat-square"> | v6.1.1 |
+| [goxlr.js](https://github.com/t3duk/goxlr-js) | javascript library to control the goxlr | <img alt="Static Badge" src="https://img.shields.io/badge/operational-green?style=flat-square"> | <img alt="Static Badge" src="https://img.shields.io/badge/open%20source-green?style=flat-square"> | v1.3.1 |
 
 ---
 
