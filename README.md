@@ -41,4 +41,4 @@ welcome to my page! i'm a **full stack developer** from the <img height="13" alt
 
 ---
 
-<p align="center">made by <a href="https://t3d.uk"><b>ted</b></a></p>
+<p align="center">made by <a href="https://t3d.uk"><b>ted</b></a> | inspired by <a href="https://github.com/thmsgbrt"><b>@thmsgbrt</b></a></p>
