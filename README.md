@@ -1,9 +1,10 @@
-> [!NOTE]
-> Page under construction.
-
 # <img height="32" alt="cat dance" src="https://emojis.slackmojis.com/emojis/images/1643514853/8661/fast_meow_party.gif?1643514853"> hey there
 
 welcome to my page! i'm a **full stack developer** from the <img height="13" alt="uk flag" src="https://cdn-icons-png.flaticon.com/512/197/197374.png"> **United Kingdom**
+
+<div>
+  <a href="https://x.com/@t3duk"><img alt="X" src="https://img.shields.io/badge/@t3duk-1D9BF0?style=flat-square&logo=x&logoColor=ffffff"></a> <img alt="Discord" src="https://img.shields.io/badge/@t3d.uk-5865F2?style=flat-square&logo=discord&logoColor=ffffff"> <a href="https://tiktok.com/@t3d.uk"><img alt="TikTok" src="https://img.shields.io/badge/@t3d.uk-000000?style=flat-square&logo=tiktok&logoColor=ffffff"></a>
+</div>
 
 ## <img height="24" alt="cat nerd" src="https://emojis.slackmojis.com/emojis/images/1643516247/22769/meow_nerd2.png?1643516247"> my skills
 
@@ -24,9 +25,12 @@ welcome to my page! i'm a **full stack developer** from the <img height="13" alt
   <img alt="Static Badge" src="https://img.shields.io/badge/cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=ffffff">
   <img alt="Static Badge" src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000">
   <img alt="Static Badge" src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=node.js&logoColor=ffffff">
-
   <img alt="Static Badge" src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=ffffff">
   <img alt="Static Badge" src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=ffffff">
   <img alt="Static Badge" src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel&logoColor=ffffff">
   <img alt="Static Badge" src="https://img.shields.io/badge/macos-000000?style=flat-square&logo=apple&logoColor=ffffff">
 </p>
+
+---
+
+<p align="center">made by <a href="https://t3d.uk"><b>ted</b></a></p>
