@@ -35,6 +35,8 @@ welcome to my page! i'm a **full stack developer** from the <img height="13" alt
 
 | 🔥 project | ✨ description | 🚦 status | 🌍 open source | 🌿 version |
 | - | - | - | - | - |
+| [uploads.gg](https://uploads.gg) | share files with your friends | <img alt="Static Badge" src="https://img.shields.io/badge/in%20development-orange?style=flat-square"> | <img alt="Static Badge" src="https://img.shields.io/badge/closed%20source-red?style=flat-square"> | v0.0.0 |
+| [voltradio.net](https://voltradio.net) | volt is an internet radio station | <img alt="Static Badge" src="https://img.shields.io/badge/operational-green?style=flat-square"> | <img alt="Static Badge" src="https://img.shields.io/badge/closed%20source-red?style=flat-square"> | v0.1.0 |
 | [page.rip](https://page.rip) | page is a link in bio service | <img alt="Static Badge" src="https://img.shields.io/badge/in%20development-orange?style=flat-square"> | <img alt="Static Badge" src="https://img.shields.io/badge/closed%20source-red?style=flat-square"> | v0.0.0 |
 | [portfolio](https://t3d.uk) | personal portfolio website | <img alt="Static Badge" src="https://img.shields.io/badge/operational-green?style=flat-square"> | <img alt="Static Badge" src="https://img.shields.io/badge/closed%20source-red?style=flat-square"> | v6.1.1 |
 | [api](https://api.t3d.uk) | personal api which can do things like discord avatars | <img alt="Static Badge" src="https://img.shields.io/badge/beta-yellow?style=flat-square"> | <img alt="Static Badge" src="https://img.shields.io/badge/closed%20source-red?style=flat-square"> | v6.1.1 |
