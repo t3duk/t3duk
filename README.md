@@ -3,7 +3,10 @@
 welcome to my page! i'm a **full stack developer** from the <img height="13" alt="uk flag" src="https://cdn-icons-png.flaticon.com/512/197/197374.png"> **United Kingdom**
 
 <div>
-  <a href="https://x.com/@t3duk"><img alt="X" src="https://img.shields.io/badge/@t3duk-1D9BF0?style=flat-square&logo=x&logoColor=ffffff"></a> <img alt="Discord" src="https://img.shields.io/badge/@t3d.uk-5865F2?style=flat-square&logo=discord&logoColor=ffffff"> <a href="https://tiktok.com/@t3d.uk"><img alt="TikTok" src="https://img.shields.io/badge/@t3d.uk-000000?style=flat-square&logo=tiktok&logoColor=ffffff"></a> <a href="mailto:hi@t3d.uk"><img alt="Email" src="https://img.shields.io/badge/hi@t3d.uk-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"></a>
+  <a href="https://bsky.app/profile/ted.ac"><img alt="Bluesky" src="https://img.shields.io/badge/@ted.ac-0285FF?style=flat-square&logo=bluesky&logoColor=ffffff"></a>
+  <img alt="Discord" src="https://img.shields.io/badge/@t3d.uk-5865F2?style=flat-square&logo=discord&logoColor=ffffff">
+  <a href="https://tiktok.com/@t3d.uk"><img alt="TikTok" src="https://img.shields.io/badge/@t3d.uk-000000?style=flat-square&logo=tiktok&logoColor=ffffff"></a>
+  <a href="mailto:hi@ted.ac"><img alt="Email" src="https://img.shields.io/badge/hi@ted.ac-EA4335?style=flat-square&logo=gmail&logoColor=ffffff"></a>
 </div>
 
 ## <img height="24" alt="cat nerd" src="https://emojis.slackmojis.com/emojis/images/1643516247/22769/meow_nerd2.png?1643516247"> my skills
@@ -46,4 +49,4 @@ welcome to my page! i'm a **full stack developer** from the <img height="13" alt
 
 ---
 
-<p align="center">made by <a href="https://t3d.uk"><b>ted</b></a> | inspired by <a href="https://github.com/thmsgbrt"><b>@thmsgbrt</b></a></p>
+<p align="center">made by <a href="https://t3d.uk"><b>ted.ac</b></a>
